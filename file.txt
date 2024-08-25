@@ -1,0 +1,1 @@
+https://explorer-evm.testnet.swisstronik.com/transaction/0x32353bc936d0b5c86af1161ed0ccf4f3f869a132525b881b8e68a1b2723eb6cb
